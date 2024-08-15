@@ -1,0 +1,17 @@
+package-as: Masque_Azerite
+enable-nolib-creation: no
+
+move-folders:
+    Masque_Azerite/Masque_Azerite: Masque_Azerite
+
+manual-changelog:
+    filename: CHANGELOG.md
+    markup-type: markdown
+
+license-output: LICENSE.txt
+
+ignore:
+    - CHANGELOG.md
+    - CODE_OF_CONDUCT.md
+    - README.md
+    - LICENSE.md
