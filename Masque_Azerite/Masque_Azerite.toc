@@ -1,4 +1,4 @@
-## Interface: 110002
+## Interface: 120001, 120000, 50503, 11508
 
 ## Plain Title: Masque: Azerite
 ## Title: Masque: |cff7284abAzerite|r

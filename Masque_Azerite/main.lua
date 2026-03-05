@@ -22,7 +22,7 @@ local GetAddOnMetadata = GetAddOnMetadata or C_AddOns and C_AddOns.GetAddOnMetad
 
 MSQ:AddSkin("Azerite", {
 	Shape = "Circle",
-	Masque_Version = 80100,
+	Masque_Version = 120001,
 
 	Description = "Designed to match the buttons in AzeriteUI.",
 	Version = GetAddOnMetadata(ADDON, "Version"),
